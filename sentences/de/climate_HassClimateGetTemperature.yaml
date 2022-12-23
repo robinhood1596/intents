@@ -7,3 +7,7 @@ intents:
           - "Wie hoch ist [<area>] die Temperatur"
           - "Wie hoch ist die Temperatur (von | vom) <name>"
           - "Wie hoch ist die Temperatur vom Thermostat <area>"
+          - "Wie hoch ist die Temperatur (vom  | von) Thermostat (in | im) <area>"
+          - "Wie warm ist es (in | im) [<area>]"
+          - "Wie kalt ist es (in | im) [<area>]"
+          
